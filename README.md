@@ -19,7 +19,7 @@ I enjoy solving real-world problems through code, learning backend architecture,
 🟩 LeetCode
 
 
-![](https://leetcard.jacoblin.cool/robincook?theme=forest&font=Caudex&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/robincook?theme=radical&font=ABeeZee&ext=heatmap)
 
 
 
