@@ -15,8 +15,14 @@ I enjoy solving real-world problems through code, learning backend architecture,
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
+🧠 DSA & Coding Profiles
+🟩 LeetCode
 ![](https://leetcard.jacoblin.cool/robincook?theme=forest&font=Caudex&ext=heatmap))
+
+📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krrobincook&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krrobincook&theme=tokyonight)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
