@@ -19,10 +19,6 @@ I enjoy solving real-world problems through code, learning backend architecture,
 🟩 LeetCode
 ![](https://leetcard.jacoblin.cool/robincook?theme=forest&font=Caudex&ext=heatmap))
 
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krrobincook&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krrobincook&theme=tokyonight)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
