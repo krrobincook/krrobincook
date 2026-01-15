@@ -1,6 +1,13 @@
 # 💫 About Me:
-I’m a B.Tech CSE student with a passion for Full-Stack Development and currently diving deep into Spring Boot and Java backend development.
-[![](https://github-readme-streak-stats.herokuapp.com/?user=<krrobincook>)
+I’m a B.Tech CSE student and an aspiring Full-Stack Developer with a strong focus on backend development.
+Currently, I’m building a full-stack project using Node.js and Express.js, where I’m designing RESTful APIs, handling server-side logic, and working with databases.
+
+I have hands-on experience with Java and Spring Boot for backend development, including building secure APIs with JWT-based authentication and integrating MySQL databases.
+On the frontend, I use React to create responsive and user-friendly interfaces.
+
+I enjoy solving real-world problems through code, learning backend architecture, and consistently pushing my work to GitHub to track progress and improve every day.
+
+🚀 Currently focused on: Node.js backend development, API design, and full-stack project building.
 
 
 # 💻 Tech Stack:
