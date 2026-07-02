@@ -1,14 +1,34 @@
-# 💫 About Me:
-I’m a B.Tech CSE student and an aspiring Full-Stack Developer with a strong focus on backend development.
-Currently, I’m building a full-stack project using Node.js and Express.js, where I’m designing RESTful APIs, handling server-side logic, and working with databases.
+💫 About Me
 
-I have hands-on experience with Java and Spring Boot for backend development, including building secure APIs with JWT-based authentication and integrating MySQL databases.
-On the frontend, I use React to create responsive and user-friendly interfaces.
+Hi, I'm Robin Kumar, a B.Tech Computer Science & Engineering student and an aspiring Full-Stack Developer passionate about building scalable web applications and backend systems.
 
-I enjoy solving real-world problems through code, learning backend architecture, and consistently pushing my work to GitHub to track progress and improve every day.
+I enjoy designing clean architectures, developing secure REST APIs, and solving real-world problems through code. My primary focus is backend development, but I also build modern, responsive user interfaces using React.
 
-🚀 Currently focused on: Node.js backend development, API design, and full-stack project building.
-
+🚀 What I'm Currently Working On
+🔹 Building a full-stack Employee Management System (EMS) using the MERN Stack
+🔹 Designing scalable RESTful APIs with Node.js and Express.js
+🔹 Implementing JWT Authentication, Role-Based Access Control (RBAC), and secure authorization
+🔹 Learning Docker, CI/CD, and backend deployment best practices
+🔹 Strengthening my Data Structures & Algorithms skills through regular LeetCode practice
+🌱 Backend Experience
+Developing REST APIs with Node.js, Express.js, and Spring Boot
+Building authentication and authorization systems using JWT
+Working with MongoDB, MySQL, and Mongoose
+Creating scalable backend architectures following clean coding practices
+API testing using Postman
+💻 Frontend Experience
+Building responsive applications using React
+Styling with Tailwind CSS
+Using Vite for modern frontend development
+Managing application state and API integration
+🎯 Interests
+Backend Development
+Full-Stack Development
+REST API Design
+Database Design
+DevOps Fundamentals
+Open Source
+Problem Solving
 
 # 💻 Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
