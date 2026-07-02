@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I'm **Robin Kumar**, a **B.Tech Computer Science & Engineering** student and an aspiring **Full-Stack Developer** passionate about building scalable web applications and backend systems.
+Hi, I'm **Robin**, a **B.Tech Computer Science & Engineering** student and an aspiring **Full-Stack Developer** passionate about building scalable web applications and backend systems.
 
 I enjoy designing clean architectures, developing secure REST APIs, and solving real-world problems through code. My primary focus is backend development, but I also build modern, responsive user interfaces using React.
 
