@@ -42,9 +42,9 @@ const krrobincook = {
 
 ### 💼 Job Portal – Microservices Architecture
 
-<a href="https://github.com/krrobincook/Job-application-microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krrobincook&repo=Job-application-microservices&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&show_owner=true" alt="Job-application-microservices" />
-</a>
+[![Language](https://img.shields.io/github/languages/top/krrobincook/Job-application-microservices?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440&color=7dd3fc)](https://github.com/krrobincook/Job-application-microservices)
+[![Stars](https://img.shields.io/github/stars/krrobincook/Job-application-microservices?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440&color=7dd3fc)](https://github.com/krrobincook/Job-application-microservices/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/krrobincook/Job-application-microservices?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440&color=7dd3fc)](https://github.com/krrobincook/Job-application-microservices/commits)
 
 Job Portal application built using **Microservices Architecture** with **Spring Boot**. Integrated **Docker & Docker Compose** for containerization.
 
@@ -54,15 +54,15 @@ Job Portal application built using **Microservices Architecture** with **Spring 
 | Backend | Java, Spring Boot |
 | Containerization | Docker, Docker Compose |
 
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440)](https://github.com/krrobincook/Job-application-microservices)
+[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0b1220&labelColor=2e3440)](https://github.com/krrobincook/Job-application-microservices)
 
 ---
 
 ### 🏢 Employee Management System (EMS) Portal
 
-<a href="https://github.com/krrobincook/employee-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krrobincook&repo=employee-portal&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&show_owner=true" alt="employee-portal" />
-</a>
+[![Language](https://img.shields.io/github/languages/top/krrobincook/employee-portal?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440&color=7dd3fc)](https://github.com/krrobincook/employee-portal)
+[![Stars](https://img.shields.io/github/stars/krrobincook/employee-portal?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440&color=7dd3fc)](https://github.com/krrobincook/employee-portal/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/krrobincook/employee-portal?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440&color=7dd3fc)](https://github.com/krrobincook/employee-portal/commits)
 
 A full-stack Employee Management System that streamlines admin and employee workflows, with role-based access control, attendance tracking, leave management, payslip viewing and profile management. Containerized with Docker and deployed on Render.
 
@@ -75,7 +75,7 @@ A full-stack Employee Management System that streamlines admin and employee work
 | DevOps | Docker, Docker Compose, Nginx, Render |
 
 [![Live](https://img.shields.io/badge/Live-Demo-7dd3fc?style=for-the-badge&logo=render&logoColor=0b1220&labelColor=2e3440)](https://employee-portal-ui.onrender.com)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=2e3440)](https://github.com/krrobincook/employee-portal)
+[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0b1220&labelColor=2e3440)](https://github.com/krrobincook/employee-portal)
 
 ---
 
@@ -97,7 +97,7 @@ A full-stack Employee Management System that streamlines admin and employee work
 <img src="https://skillicons.dev/icons?i=git,github,maven,jenkins&theme=dark" alt="Dev Tools" />
 
 **Also working with**<br/>
-![REST APIs](https://img.shields.io/badge/REST_APIs-2e3440?style=for-the-badge&logoColor=7dd3fc&color=2e3440&labelColor=7dd3fc)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2e3440?style=for-the-badge&labelColor=7dd3fc)
 ![Spring JDBC/JPA](https://img.shields.io/badge/Spring_JDBC%2FJPA-2e3440?style=for-the-badge&labelColor=7dd3fc)
 ![Microservices](https://img.shields.io/badge/Microservices-2e3440?style=for-the-badge&labelColor=7dd3fc)
 ![JWT](https://img.shields.io/badge/JWT-2e3440?style=for-the-badge&logo=jsonwebtokens&logoColor=7dd3fc&labelColor=7dd3fc)
@@ -110,25 +110,14 @@ A full-stack Employee Management System that streamlines admin and employee work
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=krrobincook&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9&hide_border=false" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrobincook&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9" alt="Top Languages" />
-
-<br/><br/>
-
+<!-- Streak card (works without any setup) -->
 <img src="https://streak-stats.demolab.com?user=krrobincook&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&border=7dd3fc&background=2E3440&stroke=7dd3fc" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=krrobincook&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+<!-- Generated by .github/workflows/metrics.yml (stats, top languages, achievements, activity) -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrobincook&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
