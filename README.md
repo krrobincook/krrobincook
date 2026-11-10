@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Kumar%20Robin%20Cook&fontSize=48&fontColor=0b1220&animation=twinkling&desc=Full%20Stack%20Developer&descSize=20&descColor=0b1220&descAlignY=68" alt="Kumar Robin Cook - Full Stack Developer" width="100%" />
 
 <a href="https://github.com/krrobincook">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+REST+APIs+with+Spring+JDBC%2FJPA;MERN+Stack+%26+MySQL+Enthusiast;Docker+%7C+Jenkins+%7C+CI%2FCD+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+REST+APIs+with+Spring+JDBC%2FJPA;MERN+Stack+%26+MySQL+Enthusiast;Docker+%7C+Jenkins+%7C+CI%2FCD+Pipelines" alt="Typing SVG" />
+</a>
 
 <br/>
 
