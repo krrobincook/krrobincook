@@ -9,7 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=krrobincook&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 <a href="https://github.com/krrobincook?tab=followers">
   <img src="https://img.shields.io/github/followers/krrobincook?style=for-the-badge&logo=github&logoColor=7dd3fc&label=FOLLOWERS&labelColor=2e3440&color=7dd3fc" alt="GitHub Followers" />
 </a>
